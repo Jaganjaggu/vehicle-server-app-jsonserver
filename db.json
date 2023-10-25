@@ -1,0 +1,25 @@
+{
+  "seller": [],
+  "vehicle": [
+    {
+      "sellerName": "Jithu ",
+      "sellerPhone": "123456789",
+      "brand": "Ducati bike",
+      "model": "A6 750",
+      "color": "White",
+      "imagelink": "https://images.ctfassets.net/x7j9qwvpvr5s/7Ba2W3kS5GgLVWJZJjYQzS/286c6d3273148b0d8f25a4d4759673f8/Ducati-Hypermotard-950-RVE-MY24-overview-gallery-1920x1080-02.jpg",
+      "price": "2490000",
+      "id": 5
+    },
+    {
+      "sellerName": "Jagan",
+      "sellerPhone": "44654654",
+      "brand": "Ducati Updated",
+      "model": "mkmkmkm",
+      "color": "kmkmk",
+      "imagelink": "kmkmkm",
+      "price": "mkkmkm",
+      "id": 6
+    }
+  ]
+}
